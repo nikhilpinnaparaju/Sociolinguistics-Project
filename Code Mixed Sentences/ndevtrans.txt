@@ -1,0 +1,35 @@
+1) For me ATM stands for any time hit.
+
+mere = pronoun
+liye = prep
+maar = verb
+Cases of change in sentence.
+
+2) Mr.Sharma's boy made Bhuvi sacrifice his wicket, are you getting the "king of the world" feeling now?
+
+Subject in hindi for the first sentence.
+In the second part of the sentence, In this case, Hindi => Matrix, Eng => embedded
+but vice versa in the first part.
+(Inter-sentential)
+
+3) I think that we will make 450 runs today.
+Odd sentence.
+runs became runzain
+Verb in English and Pron in English
+
+4) U shouldn't try on ur sister's friend, there's a thing called courtesy.
+
+First part of sent = English => Matrix. No Hindi present.
+second part of sent = Hindi => Matrix. Eng => embedded
+(Inter-sentential)
+
+5) Dude, I feeling like doing a Diploma course since Mcom ended.
+
+Diploma, Mcom and Course don't exist in Hindi and are taken from English.
+Matrix = Hindi
+since = prep
+
+6) Hemanji, with Kent Purifier's water can you wash that makeup.
+
+Matrix = Hindi
+Kent Purifier - not in Hindi - proper nouns
